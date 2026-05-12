@@ -126,17 +126,19 @@ SRL was investigated as an intermediate representation to make harmful intent st
 
 ---
 
-## Authors
+## Citation
 
-- **Davide Bruni** — University of Pisa & IIT-CNR  
-- **Carlo Bardazzi** — University of Pisa  
-- **Maurizio Tesconi** — IIT-CNR 
+If you use this work, please cite:
 
----
-
-## Contact
-
-* [davide.bruni@phd.unipi.it](mailto:davide.bruni@phd.unipi.it)
-* [c.bardazzi1@studenti.unipi.it](mailto:c.bardazzi1@studenti.unipi.it)
-* [maurizio.tesconi@iit.cnr.it](mailto:maurizio.tesconi@iit.cnr.it)
+```bibtex
+@misc{bruni2026threatcorebenchmarkexplicitimplicit,
+      title={ThreatCore: A Benchmark for Explicit and Implicit Threat Detection}, 
+      author={Davide Bruni and Carlo Bardazzi and Maurizio Tesconi},
+      year={2026},
+      eprint={2605.10563},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.10563}, 
+}
+```
 
