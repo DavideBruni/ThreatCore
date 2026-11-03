@@ -131,14 +131,15 @@ SRL was investigated as an intermediate representation to make harmful intent st
 If you use this work, please cite:
 
 ```bibtex
-@misc{bruni2026threatcorebenchmarkexplicitimplicit,
-      title={ThreatCore: A Benchmark for Explicit and Implicit Threat Detection}, 
-      author={Davide Bruni and Carlo Bardazzi and Maurizio Tesconi},
-      year={2026},
-      eprint={2605.10563},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2605.10563}, 
+@inproceedings{Bruni_2026,
+   title={ThreatCore: A Benchmark for Explicit and Implicit Threat Detection},
+   url={http://dx.doi.org/10.5220/0015075600004091},
+   DOI={10.5220/0015075600004091},
+   booktitle={Proceedings of the 15th International Conference on Data Science, Technology and Applications},
+   publisher={SCITEPRESS - Science and Technology Publications},
+   author={Bruni, Davide and Bardazzi, Carlo and Tesconi, Maurizio},
+   year={2026},
+   pages={1127–1135}
 }
 ```
 
